@@ -1,0 +1,19 @@
+{
+  "name": "local-news",
+  "version": "1.0.0",
+  "description": "Local news to your doorstep.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "news",
+    "web-scraping",
+    "scrape",
+    "hack"
+  ],
+  "author": "<+><+><+><+>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "puppeteer": "^3.0.4"
+  }
+}
